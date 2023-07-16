@@ -65,7 +65,7 @@ use Module::Pluggable 3.7
 	except      => [ 'SMS::Send::Driver' ],
 	sub_name    => '_installed_drivers';
 
-our $VERSION = '1.07';
+our $VERSION = '1.08';
 
 # Private driver cache
 my @DRIVERS = ();
