@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/SMS-Send-*/
+/SMS-Send-*.tar.gz

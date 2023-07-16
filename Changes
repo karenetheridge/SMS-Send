@@ -1,5 +1,8 @@
 Revision history for Perl extension SMS::Send
 
+{{$NEXT}}
+        - removed the use of Module::Install
+
 1.06 Wed 9 Nov 2011
 	- No functional changes
 	- Moved to production version
