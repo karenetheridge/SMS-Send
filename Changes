@@ -1,6 +1,6 @@
 Revision history for Perl extension SMS::Send
 
-{{$NEXT}}
+1.07      2023-07-16 03:51:23Z
         - removed the use of Module::Install
 
 1.06    2011-11-09
